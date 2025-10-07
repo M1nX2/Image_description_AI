@@ -1,4 +1,6 @@
 streamlit
-transformers
-torch
-pillow
+transformers==4.42.4
+torch==2.3.0
+Pillow
+sentencepiece
+accelerate
