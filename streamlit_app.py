@@ -4,7 +4,7 @@ from transformers import pipeline
 from PIL import Image
 
 # Заголовок приложения
-st.title("🖼️ Image Captioning + Chat Bot")
+st.title("🖼️ Image Captioning")
 
 # Инструкция
 st.markdown("Загрузите изображение, получите его описание и задавайте вопросы о нём!")
